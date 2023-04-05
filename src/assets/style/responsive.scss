@@ -1,0 +1,38 @@
+@media (min-width: 960px) {
+  header.v-sheet.v-app-bar {
+    height: 72px !important;
+  }
+  .v-toolbar__extension {
+    display: none !important;
+  }
+  .logo-img {
+    border-right: 2px solid #c2c2c2;
+    padding-right: 30px;
+  }
+  .desktop__app {
+    display: block;
+  }
+  .mobile__app {
+    display: none;
+  }
+}
+@media (max-width: 959px) {
+  .logo-img {
+    max-height: 60px !important;
+  }
+  .v-toolbar__extension {
+    height: 95px !important;
+  }
+  header.v-sheet.v-app-bar {
+    height: 160px !important;
+  }
+  .mobile__app {
+    display: block;
+  }
+  .desktop__app {
+    display: none;
+  }
+  .navbar__search__desktop {
+    display: none;
+  }
+}
