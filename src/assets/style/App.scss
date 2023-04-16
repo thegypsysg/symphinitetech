@@ -445,6 +445,14 @@ header {
 .trending__app .cart .action ul li {
 	float: left;
 }
+.trending__app .cart .action ul li button{
+	font-size: 16px !important;
+	height: 40px;
+	width: 40px;
+}
+.trending__app .cart .action ul li button i {
+	font-size: 16px!important;
+}
 .trending__app .cart .add-cart-button, .trending__app .cart .wishlist {
 	margin-right: 6px;
 }
@@ -494,4 +502,11 @@ header {
 	line-height: 22px;
 	letter-spacing: 0;
 	text-align: left;
+}
+
+
+@media (max-width: 959px) {
+	.v-toolbar__content {
+		height: 70px !important
+	}
 }

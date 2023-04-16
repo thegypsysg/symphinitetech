@@ -75,7 +75,7 @@
         <div
           class="mobile__app text-center"
         >
-          <div style="margin-bottom: 8px;">
+          <div style="margin-bottom: 8px; margin-top: -16px">
             <v-menu>
               <template #activator="{ props }">
                 <v-btn

@@ -27,7 +27,7 @@
             cover
           />
           <v-card-title class="text-black text-center">
-            As a Rirder/Driver
+            As a Rider/Driver
           </v-card-title>
           <v-card-text class="text-center">
             Earn money by delivering food from restaurant. All you need are the skills and a bike

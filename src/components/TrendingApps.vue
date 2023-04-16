@@ -214,19 +214,6 @@
               cover
             >
               <div class="mobile__app">
-                <v-btn
-                  elevation="4"
-                >
-                  <span class="text-white">
-                    View app
-                  </span>
-                  <v-icon
-                    right
-                    style="color: #fff"
-                  >
-                    mdi-chevron-right
-                  </v-icon>
-                </v-btn>
                 <h3
                   class="text_title"
                   style="padding-bottom: 12px;"
@@ -234,7 +221,6 @@
                   Mall-e
                 </h3>
                 <p
-                  style="padding-bottom:32px"
                   class="text_subtitle"
                 >
                   Promotion happening in malls
@@ -392,19 +378,6 @@
               cover
             >
               <div class="mobile__app">
-                <v-btn
-                  elevation="4"
-                >
-                  <span class="text-white">
-                    View app
-                  </span>
-                  <v-icon
-                    right
-                    style="color: #fff"
-                  >
-                    mdi-chevron-right
-                  </v-icon>
-                </v-btn>
                 <h3
                   class="text_title"
                   style="padding-bottom: 12px;"
@@ -412,7 +385,6 @@
                   Boozards
                 </h3>
                 <p
-                  style="padding-bottom:32px"
                   class="text_subtitle"
                 >
                   Marketplace for booze
@@ -568,19 +540,6 @@
               cover
             >
               <div class="mobile__app">
-                <v-btn
-                  elevation="4"
-                >
-                  <span class="text-white">
-                    View app
-                  </span>
-                  <v-icon
-                    right
-                    style="color: #fff"
-                  >
-                    mdi-chevron-right
-                  </v-icon>
-                </v-btn>
                 <h3
                   class="text_title"
                   style="padding-bottom: 12px;"
@@ -588,7 +547,6 @@
                   Flea
                 </h3>
                 <p
-                  style="padding-bottom:32px"
                   class="text_subtitle"
                 >
                   Promotion happening in street
@@ -745,19 +703,6 @@
               cover
             >
               <div class="mobile__app">
-                <v-btn
-                  elevation="4"
-                >
-                  <span class="text-white">
-                    View app
-                  </span>
-                  <v-icon
-                    right
-                    style="color: #fff"
-                  >
-                    mdi-chevron-right
-                  </v-icon>
-                </v-btn>
                 <h3
                   class="text_title"
                   style="padding-bottom: 12px;"
@@ -765,7 +710,6 @@
                   Mendesliga
                 </h3>
                 <p
-                  style="padding-bottom:32px"
                   class="text_subtitle"
                 >
                   Promotion for tournaments
@@ -923,19 +867,6 @@
               cover
             >
               <div class="mobile__app">
-                <v-btn
-                  elevation="4"
-                >
-                  <span class="text-white">
-                    View app
-                  </span>
-                  <v-icon
-                    right
-                    style="color: #fff"
-                  >
-                    mdi-chevron-right
-                  </v-icon>
-                </v-btn>
                 <h3
                   class="text_title"
                   style="padding-bottom: 12px;"
@@ -943,7 +874,6 @@
                   Cake Run
                 </h3>
                 <p
-                  style="padding-bottom:32px"
                   class="text_subtitle"
                 >
                   Promotion happening in malls
@@ -1101,19 +1031,6 @@
               cover
             >
               <div class="mobile__app">
-                <v-btn
-                  elevation="4"
-                >
-                  <span class="text-white">
-                    View app
-                  </span>
-                  <v-icon
-                    right
-                    style="color: #fff"
-                  >
-                    mdi-chevron-right
-                  </v-icon>
-                </v-btn>
                 <h3
                   class="text_title"
                   style="padding-bottom: 12px;"
@@ -1121,7 +1038,6 @@
                   Cafe Run
                 </h3>
                 <p
-                  style="padding-bottom:32px"
                   class="text_subtitle"
                 >
                   Market place for cafe around you
